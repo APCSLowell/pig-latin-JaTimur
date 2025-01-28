@@ -28,7 +28,7 @@ public class PigLatin {
 	    }
     }
 
-//lowell hymn version starts on line 48
+//lowell hymn version starts on line 78
 public void setup() 
 {
   String[] lines = {"beast","dough","happy","question","star","three","eagle","try"};
